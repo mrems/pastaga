@@ -39,9 +39,7 @@
     font-family: 'Cinzel', serif; 
     font-weight: 400; 
     word-wrap: break-word;
-    margin-top: 200px;
-     
-
+    margin-top: 150px;
 }
 
 .image{
@@ -71,7 +69,7 @@
 
 .separateur{
     width: 80%;
-    margin: 200px auto 0px;
+    margin: 150px auto 0px;
     height: 3px;
     border-color: #1F1F1F; ;
 }
@@ -195,7 +193,7 @@
     font-weight: 400; 
     line-height: 20px; 
     word-wrap: break-word;
-    margin-top: 100px;
+    margin-top: 150px;
     padding-bottom: 30px;
 }
 
